@@ -1,2 +1,6 @@
 # dotconfig
-my config files
+here is my config files
+theese apps including
+- vscode
+- grub
+- openbox 
